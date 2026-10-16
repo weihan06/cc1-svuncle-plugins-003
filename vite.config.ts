@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/claude_code_treasure_game/',
+    base: '/cc1-svuncle-plugins-003/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
